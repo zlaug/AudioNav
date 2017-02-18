@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioNav</string>
+    <string name="title_activity_display_location">Map</string>
+</resources>
